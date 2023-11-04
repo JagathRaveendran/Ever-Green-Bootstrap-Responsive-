@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ec-heading-bg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 300">
+  <defs>
+    <linearGradient id="_未命名漸層_15" data-name="未命名漸層 15" x1="382" y1="294.27" x2="382" y2="-7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#baf3bc"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <path id="wave-sm" d="M-6.7-7.5s-41.17,113.99,0,99.61c149.14-52.11,254.94,11.03,361.55,103.89,113.89,99.21,296.47,153,394.99,15S729.95-7.5,729.95-7.5H-6.7Z" fill="url(#_未命名漸層_15)"/>
+</svg>

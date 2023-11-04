@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ec-banner-curve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 576 100">
+  <defs>
+    <linearGradient id="ec-bg-primary-gradient-100" x1="288" y1="95.74" x2="288" y2="5.56" gradientUnits="userSpaceOnUse">
+      <stop offset=".05" stop-color="#fff"/>
+      <stop offset="1" stop-color="#baf3bc"/>
+    </linearGradient>
+  </defs>
+  <g id="curve-sm">
+    <path d="M576,7.77c-22.44,15.87-56.07,36.4-100.21,52.29-34.62,12.46-102.1,31.58-185.31,22.74-50.17-5.33-58.15-15.73-122.78-29.56C98.16,38.37,39.44,35.88,0,36.19V102H576V7.77Z" style="fill: url(#ec-bg-primary-gradient-100);"/>
+    <path d="M475.79,56.07c-24.59,8.85-63.49,23.44-113.79,27.98,49.93-3.49,89.77-15.33,113.79-23.98,44.14-15.89,77.77-36.42,100.21-52.29V3.77c-22.44,15.87-56.07,36.4-100.21,52.29Z" style="fill: #093;"/>
+    <path d="M165.6,52.8C96.98,38.33,39.03,35.88,0,36.19v4.82c37.36-.3,99.97-.81,165.6,11.79Z" style="fill: #0ab14b;"/>
+  </g>
+</svg>
